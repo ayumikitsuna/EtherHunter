@@ -8,6 +8,13 @@ This app allows you to search for unclaimed ETH in randomly generated wallets (b
 
 This tool is heavily optimized to get the maximum generation speed and further increase your chances of finding a wallet with balance.
 
+## Download
+You may download the latest version here:
+
+https://github.com/ayumikitsuna/EtherHunter/releases/tag/1.0.2
+
+This already includes .NET Desktop Runtime 3.1.16 which is required to run this app on windows.
+
 ## Feedback and Donations
 If you have any suggestions or found any bugs, please let me know
 
