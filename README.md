@@ -11,7 +11,7 @@ This tool is heavily optimized to get the maximum generation speed and further i
 ## Download
 You may download the latest version here:
 
-https://github.com/ayumikitsuna/EtherHunter/releases/tag/1.0.2
+https://github.com/ayumikitsuna/EtherHunter/releases/tag/1.0.3
 
 This already includes .NET Desktop Runtime 3.1.16 which is required to run this app on windows.
 
